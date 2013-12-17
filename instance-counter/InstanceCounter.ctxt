@@ -1,4 +1,10 @@
 #BlueJ class context
 comment0.params=
 comment0.target=InstanceCounter()
-numComments=1
+comment1.params=
+comment1.target=int\ getInstanceCounter()
+comment2.params=
+comment2.target=void\ resetInstanceCounter()
+comment3.params=
+comment3.target=int\ getInstanceNumber()
+numComments=4
