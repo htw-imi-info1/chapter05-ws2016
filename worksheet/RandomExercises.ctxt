@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=
+comment0.target=int\ wuerfeln()
+comment0.text=\n\ 1\ a\n
+comment1.params=
+comment1.target=java.lang.String\ generateResponse()
+comment1.text=\n\ 1\ b\n
+comment2.params=
+comment2.target=java.lang.String\ generateResponseExtended()
+comment2.text=\n\ 1\ c\n
+numComments=3
