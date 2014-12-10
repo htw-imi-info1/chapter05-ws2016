@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=
+comment0.target=HashMapExplorationTest()
+comment0.text=\n\ Default\ constructor\ for\ test\ class\ HashMapExplorationTest\n
+comment1.params=
+comment1.target=void\ setUp()
+comment1.text=\n\ Sets\ up\ the\ test\ fixture.\n\n\ Called\ before\ every\ test\ case\ method.\n
+comment2.params=
+comment2.target=void\ howManyEntries()
+comment3.params=
+comment3.target=void\ Ex5_27()
+comment4.params=
+comment4.target=void\ Ex5_28()
+comment5.params=
+comment5.target=void\ addingExistingElementToSet()
+numComments=6
