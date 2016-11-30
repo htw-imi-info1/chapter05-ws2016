@@ -2,8 +2,7 @@
 /**
  * This class counts its instances.
  * 
- * @author Barbara Kleinen 
- * @version 16.12.2013
+ * @author Barne Kleinen 
  */
 public class InstanceCounter
 {
